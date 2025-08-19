@@ -27,3 +27,6 @@ rabbitmq.bindiyavijay.site
 
 [payment]
 payment.bindiyavijay.site
+
+[dispatch]
+dispatch.bindiyavijay.site
